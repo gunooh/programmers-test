@@ -24,5 +24,6 @@ module.exports = {
   },
   rules: {
     'no-restricted-syntax': 0,
+    'max-len': 0,
   },
 };
