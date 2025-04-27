@@ -15,9 +15,10 @@
 
 // 다른 풀이
 const solution = (num_list) => {
-  const [a, b] = [...num_list].reverse();
+  const [a, b] = num_list.reverse();
+
   return [...num_list, a > b ? a - b : a * 2];
 };
 
-const num_list = [2, 1, 6];
+const num_list = [5, 2, 1, 7, 5];
 console.log(solution(num_list));

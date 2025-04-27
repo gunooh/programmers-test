@@ -1,7 +1,7 @@
 /* eslint-disable no-plusplus */
 /**
  * 빈 배열에 추가, 삭제하기
- * https://school.programmers.co.kr/learn/courses/30/lessons/120850
+ * https://school.programmers.co.kr/learn/courses/30/lessons/181860
  *
  * 아무 원소도 들어있지 않은 빈 배열 X가 있습니다.
  * 길이가 같은 정수 배열 arr과 boolean 배열 flag가 매개변수로 주어질 때,
